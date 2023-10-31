@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Tarek Ibn Khayer
 ![](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/396835421_1028695805066269_5128398856997056744_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFYggeHCoRW2h5fUj9XObmSBPDf2sn0IcgE8N_ayfQhyF7UBKoeO1k4Gn9_639O3YCQh-_z_bU4TpH663d9FhoS&_nc_ohc=qlC1x0PohGgAX8Si_Pk&_nc_oc=AQndOJBrWL2CtAHPsB7Vc74HQuFXcVfKAYXt5oGd1BSIaYTaweG5J_fXs2y1R0Lqe3Q&_nc_ht=scontent.fdac31-1.fna&oh=00_AfConC7-ACD2nyVMifMh43boERXAefSTGRRB1ZfK81lABQ&oe=6545F95B)
+# Hi there 👋, I'm Tarek Ibn Khayer
 
-I am a web developer,very much passionate about creating web applications with expertise in React, express, and MongoDB. Committed to delivering robust and user-friendly solutions. Open to collaborations and always eager to expand my skill set.I growing everyday by learning new things in technology.
+### I am a web developer,very much passionate about creating web applications with expertise in React, express, and MongoDB. Committed to delivering robust and user-friendly solutions. Open to collaborations and always eager to expand my skill set.I growing everyday by learning new things in technology.
 
 Outside of web development, I love watching movies, an avid reader of non-fiction and playing badminton
 
@@ -25,8 +25,6 @@ Skills: JavaScript / React /CSS /Tailwind CSS / Firebase /Mongodb/ Express js/HT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekibnkhayer)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekibnkhayer&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/tarekibnkhayer)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tarekibnkhayer)  
 
