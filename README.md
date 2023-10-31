@@ -22,9 +22,4 @@ Skills: JavaScript / React /CSS /Tailwind CSS / Firebase /Mongodb/ Express js/HT
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tarekibnkhayer)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekibnkhayer)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekibnkhayer&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tarekibnkhayer)  
 
