@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Tarek Ibn Khayer
-![](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/345904600_1183338479005714_1637520280668415894_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeESyY-DianKJVXVUCxZV-pSFm2sJu5mD8oWbawm7mYPynNn3uskAsJPHdWU4fDGBTDOcL9hKjiT8jy_OKSXv08v&_nc_ohc=gMbbxNvWSm4AX8WlYlv&_nc_ht=scontent.fdac31-1.fna&oh=00_AfCzMgFc5MtQl-iKAZLS4QjHRPU3wUrs2MWR49oUpfLz0Q&oe=6545AAFF)
+![]([https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/345904600_1183338479005714_1637520280668415894_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeESyY-DianKJVXVUCxZV-pSFm2sJu5mD8oWbawm7mYPynNn3uskAsJPHdWU4fDGBTDOcL9hKjiT8jy_OKSXv08v&_nc_ohc=gMbbxNvWSm4AX8WlYlv&_nc_ht=scontent.fdac31-1.fna&oh=00_AfCzMgFc5MtQl-iKAZLS4QjHRPU3wUrs2MWR49oUpfLz0Q&oe=6545AAFF](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/396835421_1028695805066269_5128398856997056744_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFYggeHCoRW2h5fUj9XObmSBPDf2sn0IcgE8N_ayfQhyF7UBKoeO1k4Gn9_639O3YCQh-_z_bU4TpH663d9FhoS&_nc_ohc=qlC1x0PohGgAX8Si_Pk&_nc_oc=AQndOJBrWL2CtAHPsB7Vc74HQuFXcVfKAYXt5oGd1BSIaYTaweG5J_fXs2y1R0Lqe3Q&_nc_ht=scontent.fdac31-1.fna&oh=00_AfConC7-ACD2nyVMifMh43boERXAefSTGRRB1ZfK81lABQ&oe=6545F95B))
+#Hi there 👋, I'm Tarek Ibn Khayer
 
-I am a web developer,very much passionate about creating web applications with expertise in React, express, and MongoDB. Committed to delivering robust and user-friendly solutions. Open to collaborations and always eager to expand my skill set.I growing everyday by learning new things in technology.
+###I am a web developer,very much passionate about creating web applications with expertise in React, express, and MongoDB. Committed to delivering robust and user-friendly solutions. Open to collaborations and always eager to expand my skill set.I growing everyday by learning new things in technology.
 
 Outside of web development, I love watching movies, an avid reader of non-fiction and playing badminton
 
