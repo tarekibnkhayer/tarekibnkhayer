@@ -75,7 +75,7 @@
 
 <h2>Let's Connect : </h2>
 
-<div style="display: flex; gap: 10px; align-items: center;" >
+<div style="display: flex; gap: 40px; align-items: center;" >
 <a href="mailto:tarekibnkhayer@gmail.com"><img src="./images/gmail.png" /></a>
 <a href="https://www.linkedin.com/in/tarek-ibn-khayer"><img src="./images/likenin.png" /></a>
 <a href="https://twitter.com/tarekibnkhayer">
