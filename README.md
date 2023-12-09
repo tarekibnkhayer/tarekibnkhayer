@@ -1,11 +1,24 @@
-![](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/396835421_1028695805066269_5128398856997056744_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFYggeHCoRW2h5fUj9XObmSBPDf2sn0IcgE8N_ayfQhyF7UBKoeO1k4Gn9_639O3YCQh-_z_bU4TpH663d9FhoS&_nc_ohc=qlC1x0PohGgAX8Si_Pk&_nc_oc=AQndOJBrWL2CtAHPsB7Vc74HQuFXcVfKAYXt5oGd1BSIaYTaweG5J_fXs2y1R0Lqe3Q&_nc_ht=scontent.fdac31-1.fna&oh=00_AfConC7-ACD2nyVMifMh43boERXAefSTGRRB1ZfK81lABQ&oe=6545F95B)
-# Hi there 👋, I'm Tarek Ibn Khayer
+![](../tarekibnkhayer/images/Professional%20Business%20Card.png)
 
-### I am a dedicated junior MERN Stack developer in search of an internship to enhance my skills and contribute to innovative project.
+<h2>Commits Status:</h2>
 
-Outside of web development, I love watching TV series, playing badminton.
+<div style="display: flex; gap: 10px;">
+<div> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarekibnkhayer&theme=darcula&utcOffset=8">
+</div>
+ <div>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarekibnkhayer&theme=darcula">
+  </div>
+ </div>
 
-Skills: JavaScript / React /CSS /Tailwind CSS / Firebase /Mongodb/ Express js/HTML
+ # Hi there 👋, I'm Tarek Ibn Khayer
+
+
+
+### I am a MERN Stack developer who enjoys coding  that work for real world problems. I use technology to make things easier, better, and more valuable. My goal is to create helpful solutions that have a positive impact.
+
+
+
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning Next js 
@@ -15,11 +28,65 @@ Skills: JavaScript / React /CSS /Tailwind CSS / Firebase /Mongodb/ Express js/HT
 - 😄 Pronouns: he / him 
 - ⚡ Fun fact: I am tv-series lover .You can suggest me some 😊 
 
+## Skills:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tarekibnkhayer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tarekibnkhayer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tarek-ibn-khayer-b7b675242/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tarekibnkhayer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tarekibnkhayer)  
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,mongodb,express,firebase,git,github,nextjs)](https://skillicons.dev)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+## Also have experience with:
+- Daisy UI
+- Ripple UI
+- Mongoose
+- Tanstack query
+- RHF
+- JWT
+- Framer Motion
+- many others npm package.
+
+<h2>Contributions:</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarekibnkhayer&theme=darcula)
+
+## My Recent Projects:
+### <span style="font-weight: bold">VoiceVista</span>— a survey related website
+- Build a full-stack  web app with payment integration and role based access control.
+- Implemented secure user Authentication and Authorization with JWT.
+- Designed and developed a responsive Dashboard for surveyor and admin. And also showing results with  pie charts.
+- Live site link: https://voicevista-a2040.web.app
+###
+<span style="font-weight: bold">CareerCanvas
+</span>—a job marketplace website
+
+- Designed visually striking full stack app with unique aesthetics, emphasizing color contrast and thoughtful layout.
+
+
+- Developed dynamic functionality like job posting, bidding, accept bidding , reject bidding etc.
+
+- Establish secure user authentication, offering email and google sign in option
+
+- Live site link: https://voicevista-a2040.web.app
+### <span style="font-weight: bold">TechWave</span>— a tech-product related website
+- Effortless shopping experience with a user-friendly cart system, enabling users to add, update, and delete items seamlessly.
+- Dynamic brandPage featuring a visually engaging banner with three slider images for an immersive experience.
+- Streamlined user interactions, including personalized navbar display, comment section, and toast notifications for seamless feedback and user engagement.
+- Live site link: https://voicevista-a2040.web.app
+
+
+
+
+<h2>Let's Connect : </h2>
+
+<div style="display: flex; gap: 10px; align-items: center;" >
+<a href="mailto:tarekibnkhayer@gmail.com"><img src="../tarekibnkhayer/images/gmail.png" /></a>
+<a href="https://www.linkedin.com/in/tarek-ibn-khayer"><img src="./images/likenin.png" /></a>
+<a href="https://twitter.com/tarekibnkhayer">
+<img src="./images/twitter.png" style="width: 35px" />
+</a>
+<a href="https://dev.to/tarekibnkhayer">
+<img src="./images/dev.png" style="width: 40px" />
+</a>
+</div>
+
+<h2>Trophies:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tarekibnkhayer)](https://github.com/ryo-ma/github-profile-trophy)
-
 
