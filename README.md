@@ -2,7 +2,7 @@
 
 <h2>Commits Status:</h2>
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; align-items: center;">
 <div> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarekibnkhayer&theme=darcula&utcOffset=8">
 </div>
