@@ -1,4 +1,4 @@
-![](../tarekibnkhayer/images/Professional%20Business%20Card.png)
+![](./images//Professional%20Business%20Card.png)
 
 <h2>Commits Status:</h2>
 
@@ -76,7 +76,7 @@
 <h2>Let's Connect : </h2>
 
 <div style="display: flex; gap: 10px; align-items: center;" >
-<a href="mailto:tarekibnkhayer@gmail.com"><img src="../tarekibnkhayer/images/gmail.png" /></a>
+<a href="mailto:tarekibnkhayer@gmail.com"><img src="./images/gmail.png" /></a>
 <a href="https://www.linkedin.com/in/tarek-ibn-khayer"><img src="./images/likenin.png" /></a>
 <a href="https://twitter.com/tarekibnkhayer">
 <img src="./images/twitter.png" style="width: 35px" />
